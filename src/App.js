@@ -1,11 +1,9 @@
 import './App.css';
+import Resume from './pages/Resume';
 
 function App() {
   return (
-    <div className="App">
-      <div className='right'>left</div>
-      <div className='left'>right</div>
-    </div>
+    <Resume />
   );
 }
 

@@ -1,16 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+
+  body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    background-repeat: no-repeat;
+  }
+
+
 .App {
   display: flex;
   height: 100vh;
   width: 100%;
 }
 
-.right {
-  height: 100vh;
-  background-color: blue;
-  width: 35%;
-}
 .left {
+  height: 100vh;
+  background-color: #f9fafb;
+  width: 35%;
+  padding: 2rem;
+  position: sticky;
+  display: flex;
+  flex-direction: column;
+  gap:4rem;
+}
+
+.img__Container {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  max-width: 100%;
+  /* width: 30rem; */
+  height: auto;
+  object-fit: contain;
+}
+
+/* .horizontal__Line{
+  margin: 0 2rem;
+} */
+
+hr {
+  border: 1px solid #2563eb;
+}
+
+h1{
+  padding-bottom: 1rem;
+}
+
+
+.about__Me__Text{
+  margin-top: 2rem;
+}
+
+
+
+
+
+
+
+.right {
   height: 100vh;
   background-color: grey;
   width: 65%;
 }
+
+
