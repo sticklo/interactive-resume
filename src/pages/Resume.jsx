@@ -1,6 +1,6 @@
 import '../App.css';
-import Profile from '../components/Profile';
-import StickyBio from '../components/StickyBio';
+import Profile from '../components/Profile/Profile';
+import StickyBio from '../components/StickyContainer/StickyBio';
 
 function Resume() {
     return (

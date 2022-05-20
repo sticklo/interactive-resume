@@ -1,0 +1,16 @@
+.long__Line{
+    background-color: #dbeafe;
+    width: auto;
+    height: 0.1rem;
+    overflow: hidden;
+  }
+  
+  .short__Line{
+    background-color: #0ea5e9;
+    width: 80px;
+    height: 100%;
+  }
+  
+  
+  
+  

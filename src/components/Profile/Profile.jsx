@@ -1,4 +1,4 @@
-import "../App.css";
+import "../../App.css";
 import { Icon } from "@iconify/react";
 
 function Profile() {
@@ -36,6 +36,12 @@ function Profile() {
         <div>
             <h1>WORK EXPERIENCE</h1>
             <hr />
+            <div>
+            <h4>2012 - 2019</h4>
+            <h4>Bowen University, Iwo</h4>
+            <p>Bsc Microbiology</p>
+
+        </div>
         </div>
       </div>
     </div>

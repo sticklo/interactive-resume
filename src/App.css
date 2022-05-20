@@ -37,14 +37,10 @@
 
 img {
   max-width: 100%;
-  /* width: 30rem; */
   height: auto;
   object-fit: contain;
 }
 
-/* .horizontal__Line{
-  margin: 0 2rem;
-} */
 
 hr {
   border: 1px solid #2563eb;
@@ -58,8 +54,6 @@ h1{
 .about__Me__Text{
   margin-top: 2rem;
 }
-
-
 
 
 
