@@ -17,6 +17,7 @@ function StickyBio() {
 
       <div>
           <h1>Skills</h1>
+          <hr />
           <h4>HTML</h4>
           <h4>CSS</h4>
           <h4>JAVASCRIPT</h4>
@@ -27,6 +28,7 @@ function StickyBio() {
 
       <div>
           <h1>Hobbies</h1>
+          <hr />
           <p>swimming</p>
           <p>gaming</p>
           <p>cooking</p>
